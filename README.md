@@ -41,7 +41,7 @@ The architecture follows modern observability practices:
 1. Clone this repository:https://github.com/anbazhagan1804/Full-Observability-Stack
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/anbazhagan1804/Full-Observability-Stack>
 cd full-observability-stack
 ```
 
@@ -53,11 +53,11 @@ docker-compose up -d
 
 3. Access the services:
 
-- Grafana: http://localhost:3000 (admin/admin)
-- Prometheus: http://localhost:9090
-- Loki: http://localhost:3100
-- Tempo: http://localhost:3200
-- Sample Application: http://localhost:8080
+- Grafana :
+- Prometheus :
+- Loki: 
+- Tempo: 
+- Sample Application: 
 
 ## Using the Observability Stack
 
@@ -71,7 +71,7 @@ docker-compose up -d
 
 1. In Grafana, go to Explore
 2. Select the Loki data source
-3. Query logs with LogQL, e.g., `{job="containerlogs"}`
+3. Query logs with LogQL
 
 ### Viewing Traces
 
