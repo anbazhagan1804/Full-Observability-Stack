@@ -64,7 +64,7 @@ docker-compose up -d
 
 ### Viewing Metrics
 
-1. Open Grafana at http://localhost:3000
+1. Open Grafana 
 2. Navigate to the "Microservices Observability Dashboard"
 3. View metrics such as request rate, response time, and error rate
 
