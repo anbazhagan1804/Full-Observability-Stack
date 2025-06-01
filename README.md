@@ -38,7 +38,7 @@ The architecture follows modern observability practices:
 
 ### Setup
 
-1. Clone this repository:
+1. Clone this repository:https://github.com/anbazhagan1804/Full-Observability-Stack
 
 ```bash
 git clone <repository-url>
